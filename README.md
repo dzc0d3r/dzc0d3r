@@ -33,14 +33,25 @@ I am always passionate about learning 📚 something new about new technologies,
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br>
 <br>
 
 [![dzc0d3r's github stats](https://github-readme-stats.vercel.app/api?username=dzc0d3r&count_private=true&theme=tokyonight&show_icons=true&title_color=05fc95)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Display most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzc0d3r)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
+<!-- Wakatime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
+<!-- Add correct links later -->
 [website]: https://example.com
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
