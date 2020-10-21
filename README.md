@@ -1,8 +1,18 @@
 # Walid Lamraoui [![HitCount](http://hits.dwyl.com/dzc0d3r/dzc0d3r.svg)](http://hits.dwyl.com/dzc0d3r/dzc0d3r)
 
-Hey there, I am Walid LAmraoui, 29 years old, a Software Developer 👨‍🎓 from Algeria
+Hey there, I am Walid LAmraoui, 29 years old, a Software Developer 👨‍🎓 from Algeria.
+
+I am always passionate about learning 📚 something new about new technologies, so I am a Constant Learner 🚴.
 <br>
 
+### Connect with me:
+
+[<img align="left" alt="dzc0dr3" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="dzc0dr3 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="dzc0dr3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="dzc0dr3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dzc0dr3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,3 +38,11 @@ Hey there, I am Walid LAmraoui, 29 years old, a Software Developer 👨‍🎓 f
 <br>
 
 [![dzc0d3r's github stats](https://github-readme-stats.vercel.app/api?username=dzc0d3r&count_private=true&theme=tokyonight&show_icons=true&title_color=05fc95)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[website]: https://example.com
+[twitter]: https://twitter.com/
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
