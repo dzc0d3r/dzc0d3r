@@ -1,4 +1,5 @@
-# Walid Lamraoui [![HitCount](http://hits.dwyl.com/dzc0d3r/dzc0d3r.svg)](http://hits.dwyl.com/dzc0d3r/dzc0d3r)
+
+<!-- # Walid Lamraoui [![HitCount](http://hits.dwyl.com/dzc0d3r/dzc0d3r.svg)](http://hits.dwyl.com/dzc0d3r/dzc0d3r) -->
 
 Hey there, I am Walid LAmraoui, 29 years old, a Software Developer 👨‍🎓 from Algeria.
 
