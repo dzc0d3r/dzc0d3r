@@ -39,7 +39,7 @@ I am always passionate about learning 📚 something new about new technologies,
 <br>
 <br>
 
-[![dzc0d3r's github stats](https://github-readme-stats.vercel.app/api?username=dzc0d3r&count_private=true&theme=tokyonight&show_icons=true&title_color=05fc95)](https://github.com/anuraghazra/github-readme-stats)
+[![dzc0d3r's github stats](https://github-readme-stats.vercel.app/api?username=dzc0d3r&count_private=true&theme=radical&show_icons=true&title_color=05fc95&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Display most used languages
 
